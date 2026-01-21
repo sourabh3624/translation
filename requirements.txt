@@ -1,0 +1,9 @@
+torch>=2.0
+transformers>=4.36
+datasets>=2.16
+sentencepiece>=0.1.99
+jiwer>=3.0
+ctranslate2>=4.0
+gradio>=4.0
+accelerate>=0.25
+python >= 3.9
