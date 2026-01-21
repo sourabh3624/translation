@@ -51,7 +51,7 @@ print(f"Avg per request: {pt_time / (N_RUNS * len(SAMPLES)):.4f}s")
 # =========================================================
 # CTranslate2 benchmark
 # =========================================================
-print("\n⚡ CTranslate2 Benchmark")
+print("\n CTranslate2 Benchmark")
 
 translator = ctranslate2.Translator(
     CT2_MODEL,
